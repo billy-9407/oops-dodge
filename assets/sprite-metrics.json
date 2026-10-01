@@ -1,0 +1,188 @@
+{
+  "helmet1": {
+    "width": 177,
+    "height": 192,
+    "source": "gear-helmet_1.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "uaz": {
+    "width": 198,
+    "height": 102,
+    "source": "props-uaz.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "run-1": {
+    "width": 157,
+    "height": 196,
+    "source": "gear-run_1.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "k2": {
+    "width": 193,
+    "height": 88,
+    "source": "gear-k2.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "ghillie": {
+    "width": 179,
+    "height": 193,
+    "source": "gear-ghillie.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "run-2": {
+    "width": 143,
+    "height": 194,
+    "source": "gear-run_2.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "m416": {
+    "width": 193,
+    "height": 89,
+    "source": "gear-m416.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "pony": {
+    "width": 198,
+    "height": 76,
+    "source": "props-pony.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "helmet3": {
+    "width": 192,
+    "height": 174,
+    "source": "gear-helmet_3.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "dbs": {
+    "width": 193,
+    "height": 61,
+    "source": "gear-dbs.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "awm": {
+    "width": 194,
+    "height": 61,
+    "source": "gear-awm.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "ace": {
+    "width": 194,
+    "height": 95,
+    "source": "gear-ace.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "run-3": {
+    "width": 164,
+    "height": 194,
+    "source": "gear-run_3.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "beryl": {
+    "width": 194,
+    "height": 67,
+    "source": "gear-beryl.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "grenade": {
+    "width": 122,
+    "height": 196,
+    "source": "props-grenade.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "vest2": {
+    "width": 189,
+    "height": 192,
+    "source": "gear-vest_2.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "mirado": {
+    "width": 198,
+    "height": 64,
+    "source": "props-mirado.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "ump": {
+    "width": 192,
+    "height": 111,
+    "source": "gear-ump.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "coupe": {
+    "width": 198,
+    "height": 71,
+    "source": "props-coupe_rb.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "vest1": {
+    "width": 170,
+    "height": 192,
+    "source": "gear-vest_1.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "pickup": {
+    "width": 200,
+    "height": 92,
+    "source": "props-pickup.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "scar": {
+    "width": 194,
+    "height": 87,
+    "source": "gear-scar.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "aug": {
+    "width": 193,
+    "height": 101,
+    "source": "gear-aug.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "lynx": {
+    "width": 192,
+    "height": 76,
+    "source": "gear-lynx.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "vest3": {
+    "width": 178,
+    "height": 192,
+    "source": "gear-vest_3.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "mp5k": {
+    "width": 192,
+    "height": 111,
+    "source": "gear-mp5k.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "crate": {
+    "width": 197,
+    "height": 135,
+    "source": "props-crate.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "run-0": {
+    "width": 145,
+    "height": 194,
+    "source": "gear-run_0.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "m24": {
+    "width": 194,
+    "height": 66,
+    "source": "gear-m24.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "missile": {
+    "width": 79,
+    "height": 198,
+    "source": "props-missile.png",
+    "trimmedAlphaThreshold": 20
+  },
+  "helmet2": {
+    "width": 193,
+    "height": 178,
+    "source": "gear-helmet_2.png",
+    "trimmedAlphaThreshold": 20
+  }
+}
